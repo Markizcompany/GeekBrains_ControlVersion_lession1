@@ -1,8 +1,10 @@
 # __Начальная работа с системой контроля версий__ #
 
+## __Основные комманды git:__ ##
+
 * __git --version__ - _комманда для проверки версии git_
 
-![git --version](resources/Screenshot_1.jpg)
+![git_version](resources/Git_version.jpg)
 
 * __git init__ - _инициализируем пустой репозиторий_
 
