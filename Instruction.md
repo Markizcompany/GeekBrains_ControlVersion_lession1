@@ -2,6 +2,8 @@
 
 * git --version - комманда для проверки версии git
 
+![git --version](resources/Screenshot_1.jpg)
+
 * git init - инициализируем пустой репозиторий
 
 * git status - проверяем текущее состояние файлов
