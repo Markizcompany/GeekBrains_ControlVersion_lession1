@@ -1,7 +1,8 @@
 # __Начальная работа с системой контроля версий__
 
 ## __Основные комманды git:__
-![Alt text](resources/git_logo.png)
+![Git_logo](resources/git_logo.png)
+
 ---
 
 * __git --version__ - _комманда для проверки версии git_
@@ -30,7 +31,8 @@
 
 ---
 
-## Оформление шрифтом Mardown  
+## __Оформление шрифтом Mardown__  
+![Markdown_logo](resources/Markdown_logo.jpg)
 
 ---
 
