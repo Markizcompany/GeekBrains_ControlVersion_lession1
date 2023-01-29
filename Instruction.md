@@ -104,4 +104,11 @@
 
 Чтобы отметить фрагмент строки, содержащий `код`, необходимо окружить его обратными апострофами __" ` "__. При использовании кодовых фрагментов строк текст будет отображаться в виде моноширинного шрифта. В отличие от блоков кода, кодовый фрагмент позволяет поместить код внутрь обычного абзаца текста.  
 >Пример: `code`  
----
+---  
+  
+<p style="text-align: center;">Источники информации, которые использовались при написании данной инструкции: </p>
+
+1. https://gist.github.com/Jekins/2bf2d0638163f1294637#Images
+2. http://konvut.github.io/k50articles/
+3. https://code.visualstudio.com/Docs/languages/markdown  
+    [перевод](https://translated.turbopages.org/proxy_u/en-ru.ru.ce99d1d5-63d55739-75a18b32-74722d776562/https/code.visualstudio.com/Docs/languages/markdown#_find-all-references-to-headers-and-links)  
